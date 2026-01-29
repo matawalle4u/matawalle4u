@@ -86,7 +86,7 @@ Amazon CloudWatch · DataDog · AWS CloudTrail
 
 ## 📚 Education & Certifications  
 - **B.Sc. Computer Science** | Bayero University, Kano  
-- **Advanced Backend Development** | Qwasar Silicon Valley  
+- **Advanced Backend Development** | Qwasar Silicon Valley, United States  
 - **M.Sc. Computer Science** | Federal University Lafia *(In View)*  
 - **IBM Fullstack Developer Certificate** *(In View)*  
 
