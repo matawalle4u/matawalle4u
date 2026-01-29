@@ -13,7 +13,7 @@ A backend-focused software engineer with **8+ years of experience** in architect
 ## 🛠 Technical Stack  
 
 ### **Backend & Languages**  
-![Java](https://img.shields.io/badge/Java-Spring%20Boot-orange) ![NestJS](https://img.shields.io/badge/NestJS-TypeScript-red) ![Python](https://img.shields.io/badge/Python-Django%20%7C%20Flask-blue) ![PHP](https://img.shields.io/badge/PHP-Laravel-purple) ![Rust](https://img.shields.io/badge/Rust-Systems-brown)
+![Java](https://img.shields.io/badge/Java-Spring%20Boot-orange) ![NestJS](https://img.shields.io/badge/NestJS-TypeScript-red) ![Python](https://img.shields.io/badge/Python-Django%20%7C%20Flask-blue) ![PHP Yii2](https://img.shields.io/badge/PHP-Laravel-purple) ![Rust](https://img.shields.io/badge/Rust-Systems-brown)
 
 ### **Databases**  
 MongoDB · MySQL · DynamoDB · CouchDB · PostgreSQL · Neo4j
