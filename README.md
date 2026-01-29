@@ -78,7 +78,9 @@ Amazon CloudWatch · DataDog · AWS CloudTrail
 
 ---
 
-## 🧠 Professional Activities  
+## 🧠 Professional Activities
+
+- **National Center For Artificial Intelligence And Robotics**, Backend and Infrastructure, Abuja (October 2004 to date)  
 - **Mentor**, National LiveStock Hackathon, Abuja (May 2025)  
 - **Panelist/Mentor**, National Music AI Hackathon, Abuja (November 2025)  
 
