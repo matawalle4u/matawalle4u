@@ -74,6 +74,7 @@ Amazon CloudWatch · DataDog · AWS CloudTrail
 | **Zaysh Logistics** | Logistics mobile application | Ionic, Node.js, Firebase |
 | **Federal Government Portals** | idec.gov.ng · possap.gov.ng · vreg.gov.ng | Django, Laravel, AWS |
 | **Smart Farm Backend APIs** | IoT-enabled farm hardware and user dashboard interactions | Python, MQTT, PostgreSQL |
+| **[BeeSoft] (https://beesoft.com.ng/)** | Smart AI driven Enterprise Solutions | VueJs, Veutify, NestJs, Redis, PostgreSQL |
 
 ---
 
