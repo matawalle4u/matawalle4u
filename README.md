@@ -38,6 +38,14 @@ Amazon CloudWatch · DataDog · AWS CloudTrail
 
 ## 💼 Professional Experience  
 
+### **Payment Engineer** | Esdiac Payment, Lagos  
+*Jun 2026 – Present*  
+- Built a Kotlin/Spring Boot payment gateway integrating CyberSource, covering authorization, capture, reversal, and void flows with idempotent, crash-safe persistence
+- Designed a combined authorize-and-tokenize flow (CyberSource's multi-action API) to vault payment instruments in a single gateway call, eliminating redundant round-trips and reuse of single-use transient tokens
+- Implemented an event-sourced audit trail (append-only payment and vault event logs) to support reconciliation of ambiguous or interrupted gateway calls
+- Migrated the service's build system from Maven to Gradle and consolidated a multi-module project into a single-module structure
+Built custom Spring Boot configuration loading (a PropertySourceLoader extension) to support non-standard config file formats
+
 ### **Software Developer** | Outsource Global Technologies, Abuja  
 *Dec 2022 – Present*  
 - Developed and maintained backend infrastructure using PHP/Laravel, Python/Django, and Node.js/NestJS  
