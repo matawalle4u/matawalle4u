@@ -47,7 +47,7 @@ Amazon CloudWatch · DataDog · AWS CloudTrail
 Built custom Spring Boot configuration loading (a PropertySourceLoader extension) to support non-standard config file formats
 
 ### **Software Developer** | Outsource Global Technologies, Abuja  
-*Dec 2022 – Present*  
+*Dec 2022 – 2026*  
 - Developed and maintained backend infrastructure using PHP/Laravel, Python/Django, and Node.js/NestJS  
 - Engineered automated testing pipelines (API, E2E, Load) to ensure software quality  
 - Performed security analysis and contributed to DevOps architecture reviews  
