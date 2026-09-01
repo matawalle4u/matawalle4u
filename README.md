@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 Profile  
-A backend-focused software engineer with **8+ years of experience** in architecting and scaling robust server-side systems. I specialize in building secure, efficient, and scalable APIs, implementing DevOps best practices, and leading cloud infrastructure initiatives. Passionate about clean architecture, automation, and mentoring the next generation of developers.
+Payment and backend-focused software engineer with **8+ years of experience** in architecting and scaling robust server-side systems. I specialize in building secure, efficient, and scalable APIs, implementing DevOps best practices, and leading cloud infrastructure initiatives. Passionate about clean architecture, automation, and mentoring the next generation of developers.
 
 ---
 ## 💳 Payment Engineering
