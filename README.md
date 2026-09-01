@@ -9,6 +9,17 @@
 A backend-focused software engineer with **8+ years of experience** in architecting and scaling robust server-side systems. I specialize in building secure, efficient, and scalable APIs, implementing DevOps best practices, and leading cloud infrastructure initiatives. Passionate about clean architecture, automation, and mentoring the next generation of developers.
 
 ---
+## 💳 Payment Engineering
+
+- **Payment Gateway Integrations:** CyberSource · Stripe · NIBSS
+- **Payment Processing:** Authorization · Capture · Void · Reversal · Refunds · Transaction Status
+- **Payment Security:** Payment Tokenization · Vaulting · Secure Credential Handling · Idempotency
+- **Payment Reliability:** Retry Strategies · Crash-Safe Persistence · Duplicate Prevention · Ambiguous Transaction Recovery
+- **Payment Infrastructure:** Webhooks · Event-Driven Processing · Transaction State Machines · Audit Trails
+- **Financial Operations:** Reconciliation · Transaction Tracking · Payment Audit Logs · Settlement Workflows
+- **Backend:** Kotlin · Spring Boot · Java · PostgreSQL · Redis · Kafka · RabbitMQ
+- **API & Integration:** REST · gRPC · Webhooks · Third-Party API Integration
+---
 
 ## 🛠 Technical Stack  
 
