@@ -63,22 +63,14 @@ Built custom Spring Boot configuration loading (a PropertySourceLoader extension
 - Engineered automated testing pipelines (API, E2E, Load) to ensure software quality  
 - Performed security analysis and contributed to DevOps architecture reviews  
 
-### **Technical Content Developer** | DraftDev, USA (Remote)  
-*Aug 2022 – Dec 2022*  
-- Authored and refined technical documentation and product manuals for developer audiences  
-
-### **Senior Center Technical Manager** | Ice Pyramid, Abuja  
-*Nov 2020 – Nov 2021*  
-- Managed IT infrastructure and developed/maintained the organization’s ERP solution  
-
 ### **Full Stack Developer** | Hooli Technologies, Kano  
 *Jan 2018 – Nov 2020*  
 - Scaled SaaS accounting platform using Django, Laravel, and Node.js  
 - Built backend and frontend (Vue/NestJS) for a US fulfillment center to automate e-commerce order processing  
 
-### **CTO / Tech Lead** | HugeWeb, Nasarawa | Magarya Framework (OSS)  
+### **Web Developer** | HugeWeb, Nasarawa | Magarya Framework (OSS)  
 *2016–2018 / 2021–2022*  
-- Led teams in building e-governance solutions  
+- Contributed to building e-governance solutions as a Web Developer  
 - Authored **Magarya**, an open-source PHP web framework  
 
 ---
