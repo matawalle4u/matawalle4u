@@ -1,6 +1,6 @@
 # Adam Mustapha  
 **Payment / Backend Engineer**  
-📍 Abuja, Nigeria | 📞 +234 902 816 3380 | 📧 matawalle4u@gmail.com  
+📍 Lagos, Nigeria | 📞 +234 902 816 3380 | 📧 matawalle4u@gmail.com  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/matawalle4u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sudomatawalle/)
 
 ---
