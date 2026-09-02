@@ -82,21 +82,6 @@ Built custom Spring Boot configuration loading (a PropertySourceLoader extension
 - Authored **Magarya**, an open-source PHP web framework  
 
 ---
-
-## 🚀 Featured Projects  
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Nigerian Institute of Management API](https://nigerian-institute-of-management-be.onrender.com/api/docs)** | Backend API with comprehensive documentation | NestJs, PostgreSQL |
-| **[Worknation](https://worknation.ng)** | Platform for remote work opportunities | Vue, NestJS, MongoDB |
-| **[Tallafi](https://tallafi.ng)** | Crowd funding solution | Laravel, Yii2, Vue, MySQL |
-| **Zaysh Logistics** | Logistics mobile application | Ionic, Node.js, Firebase |
-| **Federal Government Portals** | idec.gov.ng · possap.gov.ng · vreg.gov.ng | Django, Laravel, AWS |
-| **Smart Farm Backend APIs** | IoT-enabled farm hardware and user dashboard interactions | Python, MQTT, PostgreSQL |
-| **[BeeSoft](https://beesoft.com.ng/)** | Smart AI driven Enterprise Solutions | VueJs, Veutify, NestJs, Redis, PostgreSQL |
-
----
-
 ## 🧠 Professional Activities
 
 - **National Center For Artificial Intelligence And Robotics**, Contract Developer Backend and Infrastructure, Abuja (October 2024 to date)  
